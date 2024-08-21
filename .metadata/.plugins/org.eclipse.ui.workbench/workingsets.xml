@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724263191093_0" label="Java Main Sources" name="Java Main Sources"/>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724263191109_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724263733683_3" label="foodmodule" name="foodmodule">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/foodmodule" type="4"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724263916763_4" label="customermodule" name="customermodule">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/customermodule" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1724263191711_2" label="Window Working Set" name="Aggregate for window 1724263191711"/>
+</workingSetManager>
